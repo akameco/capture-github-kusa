@@ -25,7 +25,7 @@ captureGithubKusa('akameco').then(img => {
 
 github.png
 
-<img src="media/github.png>
+<img src="media/github.png"/>
 
 ## API
 
